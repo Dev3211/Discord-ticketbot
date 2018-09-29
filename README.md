@@ -14,13 +14,13 @@ npm install(make sure the package.json is there)
 
 # Commands
 
-<prefix>new reason = creates a new ticket
+!new reason = creates a new ticket
   
-<prefix>support reason = creates a new ticket
+!support reason = creates a new ticket
   
-<prefix>help = the bot sends an embedded message with whatever commands you have added in the list
+!help = the bot sends an embedded message with whatever commands you have added in the list
   
-<prefix>ticket close, remove, add = either one of them, close should be executed in the channel, add should be executed in the channel and the user must be mentioned and same goes with remove
+!ticket close, remove, add = either one of them, close should be executed in the channel, add should be executed in the channel and the user must be mentioned and same goes with remove
   
 # Issues
 
