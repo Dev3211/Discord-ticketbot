@@ -1,0 +1,18 @@
+{
+  "name": "bot-1",
+  "version": "0.0.0",
+  "description": "Bot 1",
+  "main": "app.js",
+  "author": {
+    "name": "Erik Nilsen"
+  },
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js#11.3-dev",
+    "discord.js-commando": "^0.9.0",
+    "for": "^0.1.0",
+    "fs": "0.0.1-security",
+    "masters": "^3.1.0",
+    "ms": "^2.1.1",
+    "npm": "^5.7.1"
+  }
+}
